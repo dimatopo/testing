@@ -64,7 +64,9 @@
  
 ![альт](https://ds04.infourok.ru/uploads/ex/0b2e/001665d5-80a5617c/img27.jpg "Таблица кодировки ASCII")  
 
-<center> *Рис.1 Кодировка ASCII* </center>    
+<center> 
+*Рис.1 Кодировка ASCII* 
+</center>    
 <br />
   
 К изображаемым символам относят:
