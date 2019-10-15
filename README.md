@@ -19,7 +19,12 @@
 <br />
   
 #### 1. Вступление, немного истории  
- 
+
+<html>
+  <head>
+    <style>
+      p { text-indent: 30px; }
+
 
 <p align="justify">Текст</p>
 <p align="justify">
@@ -118,10 +123,7 @@
 
 <center>  **Спасибо за внимание!**</center>  
 
-<html>
-  <head>
-    <style>
-      p { text-indent: 30px; }
+
     </style>
   <head>
   <body>
